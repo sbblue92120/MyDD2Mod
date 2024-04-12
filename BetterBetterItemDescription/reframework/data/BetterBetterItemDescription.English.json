@@ -1,83 +1,83 @@
 {
     "AbilityFormat": {
         "10": {
-            "format": "+{v1} Max Stamina",
+            "format": "Increases your maximum Stamina by {v1}",
             "hint": "固定値(150.000000,0.000000)"
         },
         "11": {
-            "format": "x{v1} Oil Cost/x{v2} Range",
+            "format": "Causes your lantern to consume 33% less oil and illuminate 100% more",
             "hint": "1:燃料の消費速度倍率　2:照らす範囲(0.660000,2.000000)"
         },
         "12": {
-            "format": "+{v1} Damage Rate",
+            "format": "Increases damage dealt by 5% when striking a target's vitals",
             "hint": "攻撃倍率加算値(0.050000,0.000000)"
         },
         "13": {
-            "format": "cliff:x{v1}/Other:x{v2}",
+            "format": "Increases climbing up cliffs, scale foes and other surfaces 10% faster",
             "hint": "1：段差登り、2：しがみつき・しゃがみ(1.100000,1.100000)"
         },
         "14": {
-            "format": "Gain {v2}%+{v1} MagDEF",
+            "format": "Increases your base Magick Defense by {v2}% & add {v1} to Magick Defense",
             "hint": "１：固定値　２：割合値(%)(45.000000,30.000000)"
         },
         "15": {
-            "format": "+{v1}% Recover Amount",
+            "format": "Increases Health recovered by curatives items and curative magicks by {v1}%",
             "hint": "増加回復量(％)(10.000000,0.000000)"
         },
         "16": {
-            "format": "x{v1} Duration",
+            "format": "Reduces the duration of debilitations you are afflicted with by 30%",
             "hint": "効果時間倍率(0.700000,0.000000)"
         },
         "17": {
-            "format": "x{v1} Duration",
+            "format": "Extends the duration of enchantments and invigorations by 20%",
             "hint": "効果時間倍率(1.200000,0.000000)"
         },
         "18": {
-            "format": "+{v1} Recover Rate",
+            "format": "Increases your Stamina recovery rate by 10%",
             "hint": "加算倍率を入力(0.100000,0.000000)"
         },
         "19": {
-            "format": "x{v1} Hate Mutliplier",
+            "format": "Decreases the chance of being targeted by foes by 15%",
             "hint": "固定ヘイト値 * Value(0.850000,0.000000)"
         },
         "20": {
-            "format": "Recover {v1}%~{v2}% of Max HP",
+            "format": "Restores {v1}% Health when you deliver a killing blow to a foe",
             "hint": "トドメを指したとき、自身の体力の(Value～Value2)%回復(4.000000,4.000000)"
         },
         "21": {
-            "format": "x{v1} Stamina Cost Mutliplier",
+            "format": "Reduces Stamina consumed when struggling in a foe's grip by 20%",
             "hint": "(0.800000,0.000000)"
         },
         "22": {
-            "format": "x{v1} Stamina Cost Mutliplier",
+            "format": "Reduces Stamina consumed when clinging to or pinning down foes by 15%",
             "hint": "しがみつき＆押さえ付け中のスタミナ持続消費量 * Value(0.850000,0.000000)"
         },
         "23": {
-            "format": "Gain {v2}%+{v1} Strength",
+            "format": "Increases your Strength by {v1}",
             "hint": "１：固定値　２：割合値(%)(30.000000,0.000000)"
         },
         "24": {
-            "format": "Gain {v2}%+{v1} MaxHP",
+            "format": "Increases your maximum Health by {v1}",
             "hint": "HPの上限値 + Value(200.000000,0.000000)"
         },
         "25": {
-            "format": "x{v1} Mutliplier",
+            "format": "Increases your ability to push and pull targets when grabbing hold by 50%x",
             "hint": "組み付き時の押し引き力 * Value(1.500000,0.000000)"
         },
         "26": {
-            "format": "+{v1}% Guard Damage Rate",
+            "format": "Increases the chances of your abilities to break through foes's guard by {v1}%",
             "hint": "ガード削り攻撃力 + Value%(30.000000,0.000000)"
         },
         "27": {
-            "format": "+{v1}% Knockdown power",
+            "format": "Increases your Knockdown Power by {v1}%",
             "hint": "吹き飛ばし力 + Value%(15.000000,0.000000)"
         },
         "28": {
-            "format": "x{v1} MaxHP loss",
+            "format": "Reduces Health loss gauge when receiving damage by 5%",
             "hint": "黒ゲージ蓄積量×Value(0.950000,0.000000)"
         },
         "29": {
-            "format": "+{v1}% debilitation",
+            "format": "Increases the chance of inflicting debilitations with your attacks by {v1}%",
             "hint": "状態異常与蓄積値 + Value%(20.000000,0.000000)"
         },
         "30": {
@@ -85,23 +85,23 @@
             "hint": "(75.000000,90.000000)"
         },
         "31": {
-            "format": "+{v1}% Knockdown Resist",
+            "format": "Increases your Knockdown Res by {v1}%",
             "hint": "吹き飛ばし耐性 + Value%(30.000000,0.000000)"
         },
         "32": {
-            "format": "+{v1}% Damage",
+            "format": "Increases damage dealt by {v1}% when exploiting hostile target's elemental weakness",
             "hint": "弱点属性による与ダメージ + Value%(5.000000,0.000000)"
         },
         "33": {
-            "format": "{v2}%+{v1} MagATK",
+            "format": "Augments your Magick by {v1}",
             "hint": "１：固定値　２：割合値(%)(30.000000,0.000000)"
         },
         "34": {
-            "format": "x{v1} Move Speed",
+            "format": "Increases movement speed by 10% while carrying or lifting",
             "hint": "持ち上げ、担ぎ上げ時の移動速度xValue(1.100000,0.000000)"
         },
         "35": {
-            "format": "x{v1} Gold",
+            "format": "Increases gold obtained when acquiring coin pouches by 5%",
             "hint": "金貨袋取得時、ゴールド獲得量xValue(1.050000,0.000000)"
         },
         "36": {
@@ -109,35 +109,35 @@
             "hint": "日中（4時～20時）、物理攻撃力+ 夜間（18時～6時）、魔法攻撃力+ １：固定値　２：割合値(%)(0.000000,5.000000)"
         },
         "37": {
-            "format": "x{v1} Amount",
+            "format": "Increases the amount of Rift Vrystals obtained by 5% when acquiring rift fragments and the like",
             "hint": "リム決勝を入手したときのリム獲得量xValue(1.050000,0.000000)"
         },
         "38": {
-            "format": "x{v1} Cost",
+            "format": "Reduces Stamina used while dashing by 10%",
             "hint": "ダッシュ中のスタミナ消費量×Value(0.900000,0.000000)"
         },
         "39": {
-            "format": "Gain {v2}%+{v1} DEF/MagDEF",
+            "format": "Increases Pawns's party Physical Defense and Magical Defense by {v1}",
             "hint": "ポーンの物理防御力/魔法防御力+ １：固定値　２：割合値(%)(30.000000,0.000000)"
         },
         "4": {
-            "format": "x{v1} Mutliplier",
+            "format": "Increases the chance of being targeted by foes by a factor of {v1}",
             "hint": "固定ヘイト値 * Value(2.000000,0.000000)"
         },
         "40": {
-            "format": "Recover {v1}% Stamina",
+            "format": "Recovers {v1}% Stamina when you deliver the killing blow to a foe",
             "hint": "敵にトドメを指したとき、スタミナValue%回復(10.000000,0.000000)"
         },
         "41": {
-            "format": "x{v1} Chance",
+            "format": "Increases smaller targets items drop by 20%",
             "hint": "(1.200000,0.000000)"
         },
         "42": {
-            "format": "Gain {v2}%+{v1} ATK/MagATK",
+            "format": "Increases Pawns's party Strength and Magick by {v1}",
             "hint": "ポーンの物理攻撃力/魔法攻撃力+ １：固定値　２：割合値(%)(30.000000,0.000000)"
         },
         "43": {
-            "format": "-{v1} seconds",
+            "format": "Reduces by {v1} second the time taken for fallen pawns to revive",
             "hint": "ポーン蘇生にかかる時間 -Value(秒)(1.000000,0.000000)"
         },
         "44": {
@@ -145,47 +145,47 @@
             "hint": "(1.500000,0.000000)"
         },
         "45": {
-            "format": "{v1}% Trigger",
+            "format": "You have {v1}% chance of creating one more of the resulting product when combining materials  Trigger",
             "hint": "調合時にアイテム作成個数+1個になる確率Value％(15.000000,0.000000)"
         },
         "46": {
-            "format": "x{v1} Chance to be attacked",
+            "format": "Decreases chances of being beset by hostiles while camping or riding in an oxcart by 65%",
             "hint": "襲撃確率 * Value(0.350000,0.000000)"
         },
         "47": {
-            "format": "x{v1} Enemy Sight Range",
+            "format": "Decreases hostile detection when you are not in battle stance by 15%",
             "hint": "敵の視界センサー * Value(0.850000,0.000000)"
         },
         "48": {
-            "format": "Gain x{v1} Favorability",
+            "format": "Increases favor gain by 10%",
             "hint": "NPCの好感度が上がるとき、上昇値 * Value(1.100000,0.000000)"
         },
         "49": {
-            "format": "x{v1} Cost",
+            "format": "Reduces the Stamina cost of performing a weapon skill by 5%",
             "hint": "カスタムスキルのスタミナ消費量xValue(0.950000,0.000000)"
         },
         "5": {
-            "format": "Gain {v2}%+{v1} DEF",
+            "format": "Increases your base Defense by {v2}% and add {v1} to Defense",
             "hint": "１：固定値　２：割合値(%)(45.000000,30.000000)"
         },
         "50": {
-            "format": "-{v1} Weight Level When Moving",
+            "format": "Reduces the amount by which weight affects your movement speed by a factor of {v1} when moving",
             "hint": "移動時の重量ランクをValue段階下げる(1.000000,0.000000)"
         },
         "6": {
-            "format": "Gain {v2}%+{v1} Max Weight",
+            "format": "Increases your maximum weight capacity by {v1} kg",
             "hint": "最大重量加算値(10.000000,0.000000)"
         },
         "7": {
-            "format": "Lift up +{v1} seconds.Pin Down +{v2} seconds",
+            "format": "Allows you to lift up or pin down foes by 2 seconds",
             "hint": "1：担ぎ上げ、2：押さえつけ。単位は秒(2.000000,2.000000)"
         },
         "8": {
-            "format": "{v1} seconds faster from Down.{v2} seconds faster from Crawling",
+            "format": "Hastens recovery by 3 second when downed or 1 second when crawling",
             "hint": "1：ダウン、2：這いずり。単位は秒(0.300000,1.000000)"
         },
         "9": {
-            "format": "+{v1} Damage Rate",
+            "format": "Increases damage dealt by your attacks by 10% when targets are not in battle stance",
             "hint": "攻撃倍率加算値(0.100000,0.000000)"
         }
     },
@@ -289,32 +289,32 @@
     "RingSpecialFormat": {
         "1": {
             "enable": true,
-            "format": "+{v1} MaxHP",
+            "format": "Increases Maximum Health by {v1}",
             "hint": "(3502,Ring of Acclamation,200,0,0)(3501,Ring of Exultation,100,0,0)"
         },
         "10": {
             "enable": true,
-            "format": "{v1}% Faster Cast",
+            "format": "Reduces time taken to cast spells by {v1}%",
             "hint": "(3533,Ring of Articulacy,15,0,0)"
         },
         "11": {
             "enable": true,
-            "format": "{v1}% Faster Cast but lose {v2}% Max HP",
+            "format": "Reduces time taken to cast spells by {v1}%, but also reduces maximum Health by {v2}%",
             "hint": "(3534,Ring of Recitation,25,20,0)"
         },
         "12": {
             "enable": true,
-            "format": "+{v1} Knockdown Resist",
+            "format": "Increases Knockdown Res by {v1}",
             "hint": "(3535,Ring of Resolution,100,0,0)"
         },
         "13": {
             "enable": true,
-            "format": "-{v1}% Stamina Cost",
+            "format": "Reduces Stamina cost by {v1}% when blocking an attack with a Shield",
             "hint": "(3536,Ring of Grit,25,0,0)"
         },
         "14": {
             "enable": true,
-            "format": "Gain {v1} ATK in {v2} seconds",
+            "format": "Increases Strength by {v1}% after a successful shield Deflect for {v2} seconds",
             "hint": "(3537,Ring of Requital,15,10,0)"
         },
         "15": {
@@ -324,37 +324,37 @@
         },
         "16": {
             "enable": true,
-            "format": "Slight Heal for {v2} seconds when taken damage over {v1}% MaxHP",
+            "format": "Recovers Health for {v2} seconds when taking damage reducing Maximum Health to {v1}% or less",
             "hint": "(3539,Ring of Benevolence,25,3,0)"
         },
         "17": {
             "enable": true,
-            "format": "Gain {v2} ATK when under {v1}% HP",
+            "format": "Increases Strength by {v2} when Health is at {v1}% or less",
             "hint": "(3540,Ring of Recompense,25,100,0)"
         },
         "18": {
             "enable": true,
-            "format": "Gain {v2} ATK when HP no less than {v1}%",
+            "format": "Increases Strength by {v2} when Health is at {v1}%",
             "hint": "(3541,Ring of Predominance,100,10,0)"
         },
         "2": {
             "enable": true,
-            "format": "+{v1} Max Stamina",
+            "format": "Increases Maximum Stamina by {v1}",
             "hint": "(3504,Ring of Momentum,150,0,0)(3503,Ring of Tenacity,90,0,0)"
         },
         "20": {
-            "enable": false,
-            "format": "{v1} {v2} {v3}",
+            "enable": true,
+            "format": "Increases the chance of being targeted by foes by a factor of {v1}",
             "hint": "(3543,Ring of Disfavor,1,0,0)"
         },
         "21": {
             "enable": true,
-            "format": "+{v1} Stamina Recover",
+            "format": "Increases Stamina Recovery Speed by {v1}%",
             "hint": "(3544,Ring of Quickening,10,0,0)"
         },
         "22": {
             "enable": true,
-            "format": "+{v1} Knockdown Power",
+            "format": "+Increases Knockdown Power by {v1}",
             "hint": "(3545,Ring of Vehemence,100,0,0)"
         },
         "23": {
@@ -364,22 +364,22 @@
         },
         "24": {
             "enable": true,
-            "format": "+{v1}%/{v2}% Deal/Taken Damage",
+            "format": "Increases damage by {v1}% at the cost of {v2}% increase damage taken",
             "hint": "(3549,Ring of Gallantry,25,25,0)"
         },
         "25": {
             "enable": true,
-            "format": "+{v1}% Damage",
+            "format": "Increases damage dealt by {v1}% when attacking foes from behind",
             "hint": "(3550,Ring of Skullduggery,20,0,0)"
         },
         "26": {
             "enable": true,
-            "format": "Gain {v1} DEF in {v2} seconds",
+            "format": "Pawn gain {v1} Defense for {v2} seconds after being held up by the wearer",
             "hint": "(3551,Ring of Reassurance,50,20,0)"
         },
         "27": {
             "enable": true,
-            "format": "+{v1}% recover amount",
+            "format": "Increases the amount of healing received from Curatives items by {v1}%",
             "hint": "(3552,Ring of Amplification,10,0,0)"
         },
         "28": {
@@ -399,37 +399,37 @@
         },
         "30": {
             "enable": true,
-            "format": "Gain +{v1}% Favorability.",
+            "format": "Increases favor gain by {v1}%",
             "hint": "(3555,Eternal Bond,10,0,0)"
         },
         "4": {
             "enable": true,
-            "format": "+{v1}/{v2}/{v3} Max HP/Max Stamina/Max Weight",
+            "format": "Increases Maximum Health by {v1}, Stamina by {v2}, and weight capacity by {v3} kg",
             "hint": "(3507,Ring of Triumph,100,100,5)"
         },
         "5": {
             "enable": true,
-            "format": "+{v1} ATK",
+            "format": "Increases your Strength by {v1}",
             "hint": "(3508,Ring of Aggression,30,0,0)"
         },
         "6": {
             "enable": true,
-            "format": "+{v1} Magic ATK",
+            "format": "Increases your Magick by {v1}",
             "hint": "(3510,Ring of Percipience,30,0,0)"
         },
         "7": {
             "enable": true,
-            "format": "+{v1}% EXP Gain",
+            "format": "Increases Experience gained from defeating foes by {v1}%",
             "hint": "(3530,Ring of Ambition,50,0,0)"
         },
         "8": {
             "enable": true,
-            "format": "+{v1}% DCP Gain",
+            "format": "Increases Discipline gained from defeated foes by {v1}%",
             "hint": "(3531,Ring of Endeavor,50,0,0)"
         },
         "9": {
             "enable": true,
-            "format": "Heal {v1} HP On Kill",
+            "format": "Recovers {v1} Health on kill",
             "hint": "(3532,Ring of Regeneration,50,0,0)"
         }
     }
